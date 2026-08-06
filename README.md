@@ -44,7 +44,7 @@ LuoKeeper — 二游账号管理工具，支持原神、崩坏：星穹铁道、
 
 | 平台 | 链接 |
 |------|------|
-| GitHub | [LuoKeeper（Releases）](https://github.com/Shilore0/miHoYoAccountManager/releases](https://github.com/Shilore0/LuoKeeper/releases/tag/LuoKeeper) |
+| GitHub | [LuoKeeper（Releases）](https://github.com/Shilore0/LuoKeeper/releases/tag/LuoKeeper) |
 | Gitee（国内推荐） | [LuoKeeper](https://gitee.com/Shilore0/miHoYoAccountManager) |
 
 下载后解压即可运行，无需安装。
